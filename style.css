@@ -1,9 +1,2 @@
-h2 {
-            color: rgb(0, 232, 15);
-        }  
-        
-        body {
-           background-color: rgb(87, 249, 255);
-                    
-        }
-#navigationtable{ width: 800px;}
+ body {background-color: rgb(87, 249, 255);}
+#navigation-table{ width: 800px;}
